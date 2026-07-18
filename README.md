@@ -1,4 +1,4 @@
-<h1 align="center">Hydr0gen</h1>
+<h1 align="center">Luca "Hydr0gen" Vitale</h1>
 <p align="center">
   <b>XR Developer</b> · Unity · Immersive & WebAR experiences
 </p>
