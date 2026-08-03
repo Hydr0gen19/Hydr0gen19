@@ -58,6 +58,6 @@
 ---
 
 <p align="center">
-  <a href="mailto:you@example.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE">LinkedIn</a>
+  <a href="mailto:luca.vitale24@yahoo.it">Email</a> ·
+  <a href="https://www.linkedin.com/in/luca-vitale95/">LinkedIn</a>
 </p>
