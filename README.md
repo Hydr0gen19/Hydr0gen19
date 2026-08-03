@@ -54,10 +54,3 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-
----
-
-<p align="center">
-  <a href="mailto:luca.vitale24@yahoo.it">Email</a> ·
-  <a href="https://www.linkedin.com/in/luca-vitale95/">LinkedIn</a>
-</p>
