@@ -22,6 +22,21 @@
 
 ---
 
+### Published work
+
+**Investigating the role of conversational agents in augmented cultural heritage tours**  
+Loretti A., Bernasconi V., Cascarano P., Troffei A., Lai M., **Vitale L.**, Bortolotti A., Marfia G.  
+*Journal of Big Data* 13, 84 (2026) · Open Access  
+[![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs40537--026--01418--4-blue?style=flat-square)](https://doi.org/10.1186/s40537-026-01418-4)
+
+Co-designed and developed **ARtour**, a Unity AR application for cultural tours:
+QR-anchored localization inside Matterport digital twins, NavMesh-based indoor
+wayfinding with custom occlusion shader, and an in-app LLM assistant
+(Gemini 2.0 Flash) with encrypted API key handling and native Android TTS.
+Evaluated in a 42-participant user study on usability, cognitive load and co-presence.
+
+---
+
 ### Tech stack
 
 **Engine & language**
