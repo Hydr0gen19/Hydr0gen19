@@ -37,6 +37,14 @@ Evaluated in a 42-participant user study on usability, cognitive load and co-pre
 
 ---
 
+### Projects
+
+**B-R1NG — augmented reality bracelet**<br>
+Touchlabs · Junior developer · 2021–2022<br>
+[![Featured in Vogue Italia](https://img.shields.io/badge/Featured_in-Vogue_Italia-blue)](https://www.vogue.it/news/article/metaverso-polso-arriva-bracciale-vedere-sfilate-creare-avatar)
+
+Contributed as a junior developer to B-R1NG, a Made-in-Italy wearable born from Touchlabs and Spaghetti Digitali: an NFC bracelet paired with an iOS/Android app that shows 3D AR content around the wrist when you point the phone camera at it. Users could send each other AR "R1NGS" (3D emoji, objects, influencer avatars) and share the result on social media. The product combined NFC pairing, Unity-based AR, native mobile apps and a cloud backend for remote content updates.
+
 ### Tech stack
 
 **Engine & language**
